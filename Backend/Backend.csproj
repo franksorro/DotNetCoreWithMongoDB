@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <LangVersion>9.0</LangVersion>
+    <UserSecretsId>3341836c-ee28-48a5-aee5-13f8c2c87cbc</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FS.MongoDB" Version="1.0.0" />
+  </ItemGroup>
+</Project>
